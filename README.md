@@ -39,11 +39,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekubhai&show_icons=true&locale=en" alt="kekubhai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&" alt="kekubhai" /></p>
-
 <!-- Adding the requested image with text -->
 <p align="center">
   <img src="https://devfest.ai/_next/image?url=%2Ftickets%2F4.png&w=1920&q=75" alt="DevFest AI Ticket" />
 </p>
+<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kekubhai&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <span style="color:black; font-size:24px;">Come join the future with AI and Blockchain!</span>
