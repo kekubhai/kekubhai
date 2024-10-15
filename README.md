@@ -43,7 +43,14 @@
 <p align="center">
   <img src="https://devfest.ai/_next/image?url=%2Ftickets%2F4.png&w=1920&q=75" alt="DevFest AI Ticket" />
 </p>
+
+
+[![An image of @kekubhai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kekubhai)](https://holopin.io/@kekubhai)
+
+
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kekubhai&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
