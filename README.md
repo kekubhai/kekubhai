@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onirbanhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onirbanhere" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anirban-ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban-ghosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirban-ghosh010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban-ghosh" height="30" width="40" /></a>
 <a href="https://instagram.com/onirbannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onirbannn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kekubhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kekubhai" height="30" width="40" /></a>
 </p>
