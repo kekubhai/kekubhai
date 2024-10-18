@@ -44,8 +44,8 @@
   <img src="https://devfest.ai/_next/image?url=%2Ftickets%2F4.png&w=1920&q=75" alt="DevFest AI Ticket" />
 </p>
 
-
 [![An image of @kekubhai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kekubhai)](https://holopin.io/@kekubhai)
+
 
 
 ### 🔝 Top Contributed Repo
