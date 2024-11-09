@@ -49,9 +49,10 @@
 
 | Project Name                                               | Description                  |
 | ---------------------------------------------------------- | ---------------------------- |
-| [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)               | 3D Pomodro Timer        |
+| [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)           | 3D Pomodro Timer        |
 | [Algo-Prep](https://algo-path.vercel.app/)      | Roadmap visualiser for DSA    |
 | [BeatNest](https://beatnext.vercel.app/)     | Play with you instrument |
+| [OrbitX](https://orbitx-ecru.vercel.app/)    | Start your web3 wallet journey here |
 
 
 ### 🔝 Top Contributed Repo
