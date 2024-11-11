@@ -40,20 +40,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&" alt="kekubhai" /></p>
 <!-- Adding the requested image with text -->
-<p align="center">
-  <img src="https://devfest.ai/_next/image?url=%2Ftickets%2F4.png&w=1920&q=75" alt="DevFest AI Ticket" />
-</p>
+
 
 [![An image of @kekubhai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kekubhai)](https://holopin.io/@kekubhai)
 
 
 | Project Name                                               | Description                  |
 | ---------------------------------------------------------- | ---------------------------- |
-| [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)           | 3D Pomodro Timer        |
+| [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)   | 3D Pomodro Timer        |
 | [Algo-Prep](https://algo-path.vercel.app/)      | Roadmap visualiser for DSA    |
 | [BeatNest](https://beatnext.vercel.app/)     | Play with you instrument |
 | [OrbitX](https://orbitx-ecru.vercel.app/)    | Start your web3 wallet journey here |
-
+|[CoinPulse](https://coinpulsenew.netlify.app/) |Track your Crypto|
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kekubhai&limit=5&theme=dark&combine_all_yearly_contributions=false)
