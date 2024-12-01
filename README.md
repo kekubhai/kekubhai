@@ -54,6 +54,7 @@
 |[CoinPulse](https://coinpulsenew.netlify.app/) |Track your Crypto|
 |[LangSwitchZ](https://langswitchz.vercel.app/) | Code Your Way |
 |[LinkRoom](https://linkroom-livid.vercel.app/) | Box Your Links in 1 |
+|[Kakshya-Kul](https://kakshya-kul.vercel.app/) | Check The College with the best ROI for You |
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kekubhai&limit=5&theme=dark&combine_all_yearly_contributions=false)
