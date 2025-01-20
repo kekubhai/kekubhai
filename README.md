@@ -55,7 +55,7 @@
 |[LangSwitchZ](https://langswitchz.vercel.app/) | Code Your Way |
 |[LinkRoom](https://linkroom-livid.vercel.app/) | Box Your Links in 1 |
 |[Kakshya-Kul](https://kakshya-kul.vercel.app/) | Check The College with the best ROI for You |
-|(her-birthday)](https://her-birthday25.vercel.app/) | Built a Birthday wishing website for my gf |
+|her-birthday25](https://her-birthday25.vercel.app/) | Built a Birthday wishing website for my gf |
 
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
