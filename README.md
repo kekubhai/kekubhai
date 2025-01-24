@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/onirbanhere" target="blank"><img src="https://img.shields.io/twitter/follow/onirbanhere?logo=twitter&style=for-the-badge" alt="onirbanhere" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity to dive into Blockchain**
-
-- 💬 Ask me about **C,C++,Javascript,React,Typescript**
 
 - 📫 How to reach me **anirbanghosh060@gmail.com**
 
