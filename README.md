@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>
-<h3 align="center">I eat POP-culture and Code</h3>
+<h3 align="center">I eat POP-culture and Code, Can Learn aanything to quickly. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kekubhai&label=Profile%20views&color=0e75b6&style=flat" alt="kekubhai" /> </p>
 
