@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>
 <h3 align="center">I eat POP-culture and Code, Can Learn aanything to quickly. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kekubhai&label=Profile%20views&color=0e75b6&style=flat" alt="kekubhai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kekubhai" alt="kekubhai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/onirbanhere" target="blank"><img src="https://img.shields.io/twitter/follow/onirbanhere?logo=twitter&style=for-the-badge" alt="onirbanhere" /></a> </p>
-
-
-- 📫 How to reach me **anirbanghosh060@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
