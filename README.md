@@ -13,19 +13,15 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,solidity,java,go,bash,python,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,solidity,java,go,bash,python,prolog)](https://skillicons.dev)
 
 <h2>Frameworks & Library</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,actix,fastapi,react,nextjs,tailwindcss,jest,vitest,threejs)](https://skillicons.dev)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat,)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,react,nextjs,tailwindcss,jest,vitest,threejs,cloudflare,github)](https://skillicons.dev)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat,)
 
 <h2>Databases/ORM</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,sqlite,sql)](https://skillicons.dev)
-
-<h2>DevOps</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=docker,k8s,grafana,prometheus,terraform)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,digitalocean,gcp,cloudflare,argocd,helm)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,firebase,supabase,neondb)](https://skillicons.dev)
 
 
 <h2>Tools</h2>
