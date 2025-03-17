@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>
-<h3 align="center">I eat POP-culture and Code, Can Learn aanything to quickly. </h3>
+<h2> dope shit happening here </h2>
 
 
 
