@@ -22,11 +22,11 @@
  
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,androidstudio,vscode,git,kafka,linux,githubactions,postman,bun)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,newrelic)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekubhai&show_icons=true&locale=en&layout=compact" alt="kekubhai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekubhai&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=false" alt="kekubhai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekubhai&show_icons=true&locale=en" alt="kekubhai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekubhai&show_icons=true&locale=en&theme=blue-green&hide_border=false" alt="kekubhai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&" alt="kekubhai" /></p>
+<p><img classname="bg-black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&theme=blue-green&hide_border=false" alt="kekubhai" /></p>
 <!-- Adding the requested image with text -->
 
 
