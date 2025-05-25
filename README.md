@@ -30,8 +30,6 @@
 <!-- Adding the requested image with text -->
 
 
-[![An image of @kekubhai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kekubhai)](https://holopin.io/@kekubhai)
-
 
 | Project Name                                               | Description                  |
 | ---------------------------------------------------------- | ---------------------------- |
