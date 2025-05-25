@@ -43,11 +43,6 @@
 |[Kakshya-Kul](https://kakshya-kul.vercel.app/) | Check The College with the best ROI for You |
 |[Data-Forage] | Scrape you required website and get the data in csv |
 |[Caibrate-01| Realtime Trading based platform built in GOLANG and react-native  |
-|[Kakshya-Kul](https://kakshya-kul.vercel.app/) | Check The College with the best ROI for You |
-
-
-
-
 |her-birthday25](https://her-birthday25.vercel.app/) | Built a Birthday wishing website for my gf |
 
 
