@@ -24,9 +24,6 @@
 
 <p><img classname="bg-black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&theme=blue-green&hide_border=false" alt="kekubhai" /></p>
 <!-- Adding the requested image with text -->
-
-
-
 | Project Name                                               | Description                  |
 | ---------------------------------------------------------- | ---------------------------- |
 | [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)   | 3D Pomodro Timer        |
@@ -36,16 +33,13 @@
 |[CoinPulse](https://coinpulsenew.netlify.app/) |Track your Crypto|
 |[LangSwitchZ](https://langswitchz.vercel.app/) | Code Your Way |
 |[LinkRoom](https://linkroom-livid.vercel.app/) | Box Your Links in 1 |
-|[Kakshya-Kul](https://kakshya-kul.vercel.app/) | Check The College with the best ROI for You |
+|[Kakshya-Kul](https://kakshya-kul.vercel.app/) | Check The College with the best ROI for You|
 |[Data-Forage] | Scrape you required website and get the data in csv |
 |[Caibrate-01| Realtime Trading based platform built in GOLANG and react-native  |
-|her-birthday25](https://her-birthday25.vercel.app/) | Built a Birthday wishing website for my gf |
+|her-birthday25](https://her-birthday25.vercel.app/) | Built a Birthday wishing website for my gf|
 
 
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kekubhai&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
