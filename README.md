@@ -1,49 +1,71 @@
 <h1 align="center">Hi 👋, I'm Anirban Ghosh</h1>
-<h2> dope shit happening here again and again  </h2>
+<h3 align="center">Dope stuff happening here. Again and again 🚀</h3>
 
-<h2>Languages</h2>
+---
+
+### 🧠 Languages
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,solidity,java,go,bash,python,prolog)](https://skillicons.dev)
 
-<h2>Frameworks & Library</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,react,nextjs,tailwindcss,jest,vitest,threejs,cloudflare,github)](https://skillicons.dev)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat,)
+---
 
-<h2>Databases/ORM</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,firebase,supabase,neondb)](https://skillicons.dev)
+### ⚙️ Frameworks & Libraries
 
+[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,react,nextjs,tailwind,jest,vitest,threejs,cloudflare,github)](https://skillicons.dev)  
+![More Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat)
 
-<h2>Tools</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,androidstudio,vscode,git,kafka,linux,githubactions,postman,bun)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,newrelic)
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekubhai&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=false" alt="kekubhai" /></p>
+### 🗄️ Databases & ORMs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekubhai&show_icons=true&locale=en&theme=blue-green&hide_border=false" alt="kekubhai" /></p>
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,firebase,supabase)](https://skillicons.dev)  
+![NeonDB](https://go-skill-icons.vercel.app/api/icons?i=neondb)
 
-<p><img classname="bg-black" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&theme=blue-green&hide_border=false" alt="kekubhai" /></p>
-<!-- Adding the requested image with text -->
-| Project Name                                               | Description                  |
-| ---------------------------------------------------------- | ---------------------------- |
-| [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)   | 3D Pomodro Timer        |
-| [Algo-Prep](https://algo-path.vercel.app/)      | Roadmap visualiser for DSA    |
-| [BeatNest](https://beatnext.vercel.app/)     | Play with you instrument |
-| [OrbitX](https://orbitx-ecru.vercel.app/)    | Start your web3 wallet journey here |
-|[CoinPulse](https://coinpulsenew.netlify.app/) |Track your Crypto|
-|[LangSwitchZ](https://langswitchz.vercel.app/) | Code Your Way |
-|[LinkRoom](https://linkroom-livid.vercel.app/) | Box Your Links in 1 |
-|[Kakshya-Kul](https://kakshya-kul.vercel.app/) | Check The College with the best ROI for You|
-|[Data-Forage] | Scrape you required website and get the data in csv |
-|[Caibrate-01| Realtime Trading based platform built in GOLANG and react-native  |
-|her-birthday25](https://her-birthday25.vercel.app/) | Built a Birthday wishing website for my gf|
+---
 
+### 🛠️ Tools & Platforms
 
-<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kekubhai&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,androidstudio,vscode,git,kafka,linux,githubactions,postman,bun)](https://skillicons.dev)  
+![More Tools](https://go-skill-icons.vercel.app/api/icons?i=expo,newrelic)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <span style="color:black; font-size:24px;">Come join the future with AI and Blockchain!</span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kekubhai&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=false" alt="Top Langs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=kekubhai&show_icons=true&locale=en&theme=blue-green&hide_border=false" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&theme=blue-green&hide_border=false" alt="GitHub Streak" />
 </p>
 
+---
 
+### 🚀 Featured Projects
+
+| Project Name                                                                                                   | Description                                         |
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)                             | 🧠 3D Pomodoro Timer                                 |
+| [Algo-Prep](https://algo-path.vercel.app/)                                                                     | 📚 Roadmap Visualizer for DSA                        |
+| [BeatNest](https://beatnext.vercel.app/)                                                                       | 🎸 Play With Your Instrument                         |
+| [OrbitX](https://orbitx-ecru.vercel.app/)                                                                      | 🪙 Start Your Web3 Wallet Journey                    |
+| [CoinPulse](https://coinpulsenew.netlify.app/)                                                                 | 📈 Track Your Crypto                                |
+| [LangSwitchZ](https://langswitchz.vercel.app/)                                                                 | 👨‍💻 Code Your Way                                    |
+| [LinkRoom](https://linkroom-livid.vercel.app/)                                                                 | 📦 Box Your Links in One                             |
+| [Kakshya-Kul](https://kakshya-kul.vercel.app/)                                                                 | 🏫 College ROI Comparator                            |
+| **Data-Forage** _(coming soon)_                                                                                | 🔍 Scrape websites and get CSV output                |
+| **Caibrate-01** _(coming soon)_                                                                                | 📉 Realtime Trading Platform (GoLang + React Native) |
+| [her-birthday25](https://her-birthday25.vercel.app/)                                                           | 🎂 Birthday Wish Page for My GF                      |
+
+---
+
+### 📈 GitHub Graph
+
+[![Anirban's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kekubhai&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p align="center">
+  <strong style="font-size: 20px;">✨ Come join the future with AI and Blockchain! ✨</strong>
+</p>
