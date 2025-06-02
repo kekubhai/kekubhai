@@ -66,6 +66,5 @@
 
 ---
 
-<p align="center">
-  <strong style="font-size: 20px;">✨ Come join the future with AI and Blockchain! ✨</strong>
-</p>
+
+
