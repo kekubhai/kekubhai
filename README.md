@@ -18,7 +18,7 @@
 
 ### 🗄️ Databases & ORMs
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,firebase,supabase)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,prisma,firebase,supabase,cloudinary)](https://skillicons.dev)  
 ![NeonDB](https://go-skill-icons.vercel.app/api/icons?i=neondb)
 
 ---
