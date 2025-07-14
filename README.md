@@ -12,7 +12,7 @@
 ### ⚙️ Frameworks & Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,react,nextjs,tailwind,jest,vitest,threejs,cloudflare,github)](https://skillicons.dev)  
-![More Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat)
+![More Skills](https://go-skill-icons.vercel.app/api/icons?i=langchain,recoil,reactnative,authjs,graphql,trpc,hardhat,pytorch,sklearn,selenium)
 
 ---
 
