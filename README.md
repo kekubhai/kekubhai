@@ -57,23 +57,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project Name                                                                                                   | Description                                         |
-|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| [TempoFlow](https://66fad4069243881f2dceed81--voluble-kashata-684138.netlify.app/)                             | 🧠 3D Pomodoro Timer                                 |
-| [Algo-Prep](https://algo-path.vercel.app/)                                                                     | 📚 Roadmap Visualizer for DSA                        |
-| [BeatNest](https://beatnext.vercel.app/)                                                                       | 🎸 Play With Your Instrument                         |
-| [OrbitX](https://orbitx-ecru.vercel.app/)                                                                      | 🪙 Start Your Web3 Wallet Journey                    |
-| [CoinPulse](https://coinpulsenew.netlify.app/)                                                                 | 📈 Track Your Crypto                                |
-| [LangSwitchZ](https://langswitchz.vercel.app/)                                                                 | 👨‍💻 Code Your Way                                    |
-| [LinkRoom](https://linkroom-livid.vercel.app/)                                                                 | 📦 Box Your Links in One                             |
-| [Kakshya-Kul](https://kakshya-kul.vercel.app/)                                                                 | 🏫 College ROI Comparator                            |
-| **Data-Forage** _(coming soon)_                                                                                | 🔍 Scrape websites and get CSV output                |
-| **Caibrate-01** _(coming soon)_                                                                                | 📉 Realtime Trading Platform (GoLang + React Native) |
-| [her-birthday25](https://her-birthday25.vercel.app/)                                                           | 🎂 Birthday Wish Page for My GF                      |
-
----
 
 ### 📈 GitHub Graph
 
