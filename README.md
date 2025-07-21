@@ -3,8 +3,6 @@
 
 ---
 
-### 🧠 Languages
-
 
 ## 🧠 Languages  
 [![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,solidity,java,go,bash,python,prolog)](https://skillicons.dev)
