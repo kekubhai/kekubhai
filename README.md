@@ -49,9 +49,6 @@
 
 ---
 
-GitHub Graph
-
----
 
 
 
