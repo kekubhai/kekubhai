@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋,I'm Anirban Ghosh</h1>
-<h3 align="center">Dope stuff happening here.Again and again 🚀</h3>
+<h3 align="center">Dope stuff happening here. Again and again 🚀</h3>
 
 ---
 
