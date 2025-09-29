@@ -1,8 +1,5 @@
 <h1 align="center">Hi👋,I'm Anirban Ghosh </h1>
-<h3 align="center">Dope stuff happening here. Again and again like its today 🚀</h3>
-
----
-
+<h3 align="center">Dope stuff happening here. Again and again like its today🚀</h3>
 
 ## 🧠 Languages  
 [![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,solidity,java,go,bash,python,prolog)](https://skillicons.dev)
