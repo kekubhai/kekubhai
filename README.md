@@ -2,7 +2,7 @@
 <h3 align="center">Dope stuff happening here. Again and again like its today🚀</h3>
 
 ## 🧠 Languages  
-[![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,solidity,java,go,bash,python,prolog,rust,scala,haskell,swift,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,c,cpp,solidity,java,go,bash,python,scala,haskell,swift,kotlin)](https://skillicons.dev)
 
 ---
 
