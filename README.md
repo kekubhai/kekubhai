@@ -1,4 +1,4 @@
-# Hi there, I'm Anirban Ghosh 👋
+# Hi there, I'm Anirban Ghosh👋
 
 <div align="center">
   
