@@ -9,9 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirbanghosh060@gmail.com)
 
 </div>
-
----
-
 ## 💼 Professional Summary
 
 Versatile engineer with expertise spanning **Full-Stack Development**, **AI/ML Engineering**, **Blockchain**, and **Cloud Infrastructure**. Passionate about building scalable systems and leveraging cutting-edge technologies to solve complex problems.
