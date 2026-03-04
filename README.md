@@ -9,34 +9,61 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirbanghosh060@gmail.com)
 
 </div>
-# Projects
+# Hi, I'm Anirban 👋
 
-* **Calibrate-O1** – Real-time stock analysis mobile app with WebSocket streaming and OHLC charts.
-  https://github.com/kekubhai/calibrate-o1
+📍 Kolkata, India | 💻 Full-stack builder | 🚀 Hackathon enthusiast
 
-* **TempoFlow** – 3D Pomodoro productivity timer designed for deep-focus work sessions.
-  https://tempoflow.vercel.app
+JavaScript • TypeScript • Python • C++ • Next.js • Node.js • Tailwind • Web3
 
-* **AlgoPrep** – Interactive roadmap visualizer to master Data Structures & Algorithms step-by-step.
-  https://algo-prep.vercel.app
+Building experimental products, developer tools, and real-time systems.
+I enjoy turning ideas into working products fast — especially in hackathons and side projects.
 
-* **CoinPulse** – Real-time cryptocurrency dashboard for tracking market prices and trends.
-  https://coinpulse.vercel.app
+---
 
-* **OrbitX** – Beginner-friendly platform introducing users to Web3 wallets and blockchain.
-  https://orbitx.vercel.app
+# Current Projects
 
-* **BeatNest** – Browser-based musical playground to experiment with sounds and create beats.
-  https://beatnest.vercel.app
+🚀 **TempoFlow** – 3D Pomodoro productivity timer built for deep-focus work sessions.
+https://tempoflow.vercel.app
 
-* **LinkRoom** – Minimal personal dashboard for organizing and managing useful links.
-  https://linkroom.vercel.app
+📊 **CoinPulse** – Real-time cryptocurrency dashboard for tracking prices and market trends.
+https://coinpulse.vercel.app
 
-* **KakshyaKul** – Platform for discovering and comparing colleges based on ROI and outcomes.
-  https://kakshya-kul.vercel.app
+🧠 **AlgoPrep** – Interactive roadmap visualizer to help developers master Data Structures & Algorithms.
+https://algo-prep.vercel.app
 
-* **Code-Sol** – Curated collection of data-structure and algorithm solutions in C, C++, and Python.
-  https://github.com/kekubhai/Code-Sol
+🌐 **OrbitX** – Beginner-friendly platform introducing users to Web3 wallets and blockchain.
+https://orbitx.vercel.app
+
+🎵 **BeatNest** – Browser-based musical playground for experimenting with sounds and beats.
+https://beatnest.vercel.app
+
+🔗 **LinkRoom** – Minimal personal dashboard to organize and manage useful links.
+https://linkroom.vercel.app
+
+🎓 **KakshyaKul** – Platform for discovering and comparing colleges based on ROI and outcomes.
+https://kakshya-kul.vercel.app
+
+📈 **Calibrate-O1** – Real-time stock analysis mobile app with WebSocket streaming and OHLC charts.
+https://github.com/kekubhai/calibrate-o1
+
+💻 **Code-Sol** – Curated collection of Data Structures and Algorithms solutions in C, C++, and Python.
+https://github.com/kekubhai/Code-Sol
+
+---
+
+# What I'm Doing
+
+🚀 Building products and tools during hackathons
+⚡ Exploring real-time systems, AI tooling, and Web3
+📚 Practicing DSA and system design
+🛠 Experimenting with new developer tools and frameworks
+
+---
+
+# Connect
+
+GitHub → https://github.com/kekubhai
+
 
 ## 💼 Professional Summary
 
