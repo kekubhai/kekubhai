@@ -9,6 +9,35 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirbanghosh060@gmail.com)
 
 </div>
+# Projects
+
+* **Calibrate-O1** – Real-time stock analysis mobile app with WebSocket streaming and OHLC charts.
+  https://github.com/kekubhai/calibrate-o1
+
+* **TempoFlow** – 3D Pomodoro productivity timer designed for deep-focus work sessions.
+  https://tempoflow.vercel.app
+
+* **AlgoPrep** – Interactive roadmap visualizer to master Data Structures & Algorithms step-by-step.
+  https://algo-prep.vercel.app
+
+* **CoinPulse** – Real-time cryptocurrency dashboard for tracking market prices and trends.
+  https://coinpulse.vercel.app
+
+* **OrbitX** – Beginner-friendly platform introducing users to Web3 wallets and blockchain.
+  https://orbitx.vercel.app
+
+* **BeatNest** – Browser-based musical playground to experiment with sounds and create beats.
+  https://beatnest.vercel.app
+
+* **LinkRoom** – Minimal personal dashboard for organizing and managing useful links.
+  https://linkroom.vercel.app
+
+* **KakshyaKul** – Platform for discovering and comparing colleges based on ROI and outcomes.
+  https://kakshya-kul.vercel.app
+
+* **Code-Sol** – Curated collection of data-structure and algorithm solutions in C, C++, and Python.
+  https://github.com/kekubhai/Code-Sol
+
 ## 💼 Professional Summary
 
 Versatile engineer with expertise spanning **Full-Stack Development**, **AI/ML Engineering**, **Blockchain**, and **Cloud Infrastructure**. Passionate about building scalable systems and leveraging cutting-edge technologies to solve complex problems.
