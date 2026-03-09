@@ -21,95 +21,20 @@ I enjoy turning ideas into working products fast — especially in hackathons an
 ---
 ---
 
-# 🚀 Projects
-
----
-
-### 🌍 [Zynvo.social](https://zynvo.social)
-**Tech:** Next.js, MongoDB, Gemini API, Clerk, face-api.js, Tailwind CSS
-
-College community platform with branch/semester-based feeds, study material uploads, events management, and AI chat via Gemini. Integrated face-api.js for attendance and Clerk for auth.
-
----
-
-### 🤖 [Mimic — Personalized AI Avatar](https://mimic-eta.vercel.app)
-**Tech:** Next.js, LangChain, OpenAI, Supabase, TypeScript
-
-Privacy-first digital identity platform where users train a one-to-one AI avatar via memory-based learning. Avatar evolves through structured memory of preferences and behavioral patterns without model retraining.
-
----
-
-### 💰 [Claimr — Decentralized Bounty Platform](https://claimr-chi.vercel.app)
-**Tech:** Solidity, Ethereum Sepolia, Next.js, FastAPI, ethers.js
-
-Crypto bounty platform where companies lock rewards in smart contracts, students submit solutions, and an AI agent auto-evaluates and scores submissions for trustless payouts on Ethereum Sepolia.
-
----
-
-### ⏱️ [TempoFlow — 3D Pomodoro Timer](https://tempoflow.vercel.app)
-**Tech:** React, Three.js, Tailwind CSS, TypeScript, Framer Motion
-
-3D Pomodoro productivity timer built for deep-focus work sessions. Features immersive Three.js scene transitions between work/break states and customizable session lengths.
-
----
-
-### 📊 [CoinPulse — Crypto Market Dashboard](https://coinpulse.vercel.app)
-**Tech:** React, TypeScript, CoinGecko API, WebSocket, Recharts, Tailwind CSS
-
-Real-time cryptocurrency dashboard with live price tracking, market cap rankings, and interactive trend charts. WebSocket-powered streaming ensures sub-second data updates across all tracked assets.
-
----
-
-### 🧠 [AlgoPrep — DSA Roadmap Visualizer](https://algo-prep.vercel.app)
-**Tech:** React, TypeScript, D3.js, Tailwind CSS, Framer Motion
-
-Interactive visual roadmap for mastering Data Structures & Algorithms, with topic-wise progress tracking, curated problem sets, and animated graph traversal visualizations for intuitive learning.
-
----
-
-### 🌐 [OrbitX — Web3 Onboarding Platform](https://orbitx.vercel.app)
-**Tech:** Next.js, ethers.js, MetaMask SDK, Tailwind CSS, TypeScript
-
-Beginner-friendly platform introducing users to Web3 wallets and blockchain concepts. Guides users through wallet creation, test transactions, and on-chain interactions with zero prior crypto knowledge required.
-
----
-
-### 🎵 [BeatNest — Browser Music Playground](https://beatnest.vercel.app)
-**Tech:** React, Tone.js, Web Audio API, Tailwind CSS, TypeScript
-
-Browser-based musical playground for experimenting with sounds and beats. Features a step sequencer, real-time audio synthesis, and a drag-and-drop beat builder powered by the Web Audio API.
-
----
-
-### 🔗 [LinkRoom — Personal Link Dashboard](https://linkroom.vercel.app)
-**Tech:** Next.js, Supabase, TypeScript, Tailwind CSS
-
-Minimal personal dashboard to organize and manage useful links. Supports categorized collections, quick search, and a clean shareable public profile page.
-
----
-
-### 🎓 [KakshyaKul — College Discovery Platform](https://kakshya-kul.vercel.app)
-**Tech:** Next.js, PostgreSQL, Prisma, Tailwind CSS, TypeScript
-
-Platform for discovering and comparing colleges based on ROI, placement outcomes, and student reviews. Features smart filters, side-by-side comparisons, and data-driven college rankings.
-
----
-
-### 📈 [Calibrate-O1 — Stock Analysis App](https://github.com/kekubhai/calibrate-o1)
-**Tech:** React Native, WebSocket, Finnhub API, Victory Native, Expo
-
-Mobile stock analysis app with real-time WebSocket price streaming, OHLC candlestick charts, and live market indicators. Built for low-latency financial data consumption on iOS and Android.
-
----
-
-### 💻 [Code-Sol — DSA Solutions Library](https://github.com/kekubhai/Code-Sol)
-**Tech:** C, C++, Python
-
-Curated collection of Data Structures and Algorithms solutions across C, C++, and Python. Organized by topic with clean, well-commented implementations for learning and interview preparation.
-
----
----
-
+| Project | Description |
+|---|---|
+| [Zynvo.social](https://zynvo.social) | College community platform with AI chat, face attendance, and branch-based feeds |
+| [Mimic](https://mimic-eta.vercel.app) | Train a one-to-one AI avatar that evolves through memory-based learning |
+| [Claimr](https://claimr-chi.vercel.app) | Decentralized bounty platform with smart contract payouts and AI evaluation |
+| [TempoFlow](https://tempoflow.vercel.app) | 3D Pomodoro timer built for deep-focus work sessions |
+| [CoinPulse](https://coinpulse.vercel.app) | Real-time crypto dashboard with live WebSocket price streaming |
+| [AlgoPrep](https://algo-prep.vercel.app) | Interactive DSA roadmap visualizer with animated graph traversals |
+| [OrbitX](https://orbitx.vercel.app) | Beginner-friendly Web3 onboarding with wallet creation and on-chain interactions |
+| [BeatNest](https://beatnest.vercel.app) | Browser-based musical playground with a step sequencer and beat builder |
+| [LinkRoom](https://linkroom.vercel.app) | Minimal personal dashboard to organize and share curated links |
+| [KakshyaKul](https://kakshya-kul.vercel.app) | Discover and compare colleges by ROI, placements, and outcomes |
+| [Calibrate-O1](https://github.com/kekubhai/calibrate-o1) | Mobile stock app with real-time OHLC charts and WebSocket streaming |
+| [Code-Sol](https://github.com/kekubhai/Code-Sol) | Curated DSA solutions in C, C++, and Python organized by topic |
 # What I'm Doing
 
 🚀 Building products and tools during hackathons
