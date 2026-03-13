@@ -26,6 +26,7 @@ I enjoy turning ideas into working products fast — especially in hackathons an
 | [Zynvo.social](https://zynvo.social) | College community platform with AI chat, face attendance, and branch-based feeds |
 | [Mimic](https://mimic-eta.vercel.app) | Train a one-to-one AI avatar that evolves through memory-based learning |
 | [Claimr](https://claimr-chi.vercel.app) | Decentralized bounty platform with smart contract payouts and AI evaluation |
+| [IMDA](https://huggingface.co/spaces/onirban/imdagent) | Ai vision for manufacturing departments | 
 | [TempoFlow](https://tempoflow.vercel.app) | 3D Pomodoro timer built for deep-focus work sessions |
 | [CoinPulse](https://coinpulse.vercel.app) | Real-time crypto dashboard with live WebSocket price streaming |
 | [AlgoPrep](https://algo-prep.vercel.app) | Interactive DSA roadmap visualizer with animated graph traversals |
