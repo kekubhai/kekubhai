@@ -23,7 +23,7 @@ I enjoy turning ideas into working products fast — especially in hackathons an
 
 | Project | Description |
 |---|---|
-| [Zynvo.social](https://zynvo.social) | College community platform with AI chat, face attendance, and branch-based feeds |
+| [Zynvo.social](https://zynvosocial.com) | College community platform with AI chat, face attendance, and branch-based feeds |
 | [Mimic](https://mimic-eta.vercel.app) | Train a one-to-one AI avatar that evolves through memory-based learning |
 | [Claimr](https://claimr-chi.vercel.app) | Decentralized bounty platform with smart contract payouts and AI evaluation |
 | [IMDA](https://huggingface.co/spaces/onirban/imdagent) | Ai vision for manufacturing departments | 
