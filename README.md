@@ -1,218 +1,57 @@
-# Hi there, I'm Anirban Ghosh👋
+# Anirban Ghosh
 
-<div align="center">
-  
-### 🚀 Full-Stack Engineer | AI/ML Enthusiast | Blockchain Developer
+**1 year shipping 0→1 products · 6 hackathons · 1k+ users**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirban-ghosh010/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anirban-three.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirbanghosh060@gmail.com)
+Full-stack engineer who ships fast and remote. I build the thing, put it in front of users, and iterate — no permission needed.
 
-</div>
-# Hi, I'm Anirban 👋
-
-📍 Kolkata, India | 💻 Full-stack builder | 🚀 Hackathon enthusiast
-
-JavaScript • TypeScript • Python • C++ • Next.js • Node.js • Tailwind • Web3
-
-Building experimental products, developer tools, and real-time systems.
-I enjoy turning ideas into working products fast — especially in hackathons and side projects.
-
----
----
-
-| Project | Description |
-|---|---|
-| [Zynvo.social](https://zynvosocial.com) | College community platform with AI chat, face attendance, and branch-based feeds |
-| [Mimic](https://mimic-eta.vercel.app) | Train a one-to-one AI avatar that evolves through memory-based learning |
-| [Claimr](https://claimr-chi.vercel.app) | Decentralized bounty platform with smart contract payouts and AI evaluation |
-| [IMDA](https://huggingface.co/spaces/onirban/imdagent) | Ai vision for manufacturing departments | 
-| [TempoFlow](https://tempoflow.vercel.app) | 3D Pomodoro timer built for deep-focus work sessions |
-| [CoinPulse](https://coinpulse.vercel.app) | Real-time crypto dashboard with live WebSocket price streaming |
-| [AlgoPrep](https://algo-prep.vercel.app) | Interactive DSA roadmap visualizer with animated graph traversals |
-| [OrbitX](https://orbitx.vercel.app) | Beginner-friendly Web3 onboarding with wallet creation and on-chain interactions |
-| [BeatNest](https://beatnest.vercel.app) | Browser-based musical playground with a step sequencer and beat builder |
-| [LinkRoom](https://linkroom.vercel.app) | Minimal personal dashboard to organize and share curated links |
-| [KakshyaKul](https://kakshya-kul.vercel.app) | Discover and compare colleges by ROI, placements, and outcomes |
-| [Calibrate-O1](https://github.com/kekubhai/calibrate-o1) | Mobile stock app with real-time OHLC charts and WebSocket streaming |
-| [Code-Sol](https://github.com/kekubhai/Code-Sol) | Curated DSA solutions in C, C++, and Python organized by topic |
-# What I'm Doing
-
-🚀 Building products and tools during hackathons
-⚡ Exploring real-time systems, AI tooling, and Web3
-📚 Practicing DSA and system design
-🛠 Experimenting with new developer tools and frameworks
+📍 Kolkata, India (remote, GMT+5:30) · [Portfolio](https://anirban-three.vercel.app/) · [GitHub](https://github.com/kekubhai) · [LinkedIn](https://www.linkedin.com/in/anirban-ghosh010/) · [Email](mailto:anirbanghosh060@gmail.com)
 
 ---
 
-# Connect
+## Featured Builds
 
-GitHub → https://github.com/kekubhai
+### 🎓 [Zynvo.social](https://zynvosocial.com) — college community platform
+AI chat, face-recognition attendance, and branch-based feeds for college clubs and event management.
+`Next.js · Python · PostgreSQL · Computer Vision` — live in production, multi-college rollout.
 
+### 🧠 [Mimic](https://mimic-eta.vercel.app) — memory-based AI avatar
+Trains a 1:1 AI avatar that evolves through continual memory learning instead of static fine-tuning.
+`LangChain · Vector memory · Next.js` — solves the "generic chatbot" problem with persistent user-specific state.
 
-## 💼 Professional Summary
+### ⛓️ [Claimr](https://claimr-chi.vercel.app) — decentralized bounty platform
+Smart-contract payouts with AI-driven submission evaluation — trustless bounty resolution, no manual arbitration.
+`Solidity · ethers.js · Next.js · Smart contract escrow`
 
-Versatile engineer with expertise spanning **Full-Stack Development**, **AI/ML Engineering**, **Blockchain**, and **Cloud Infrastructure**. Passionate about building scalable systems and leveraging cutting-edge technologies to solve complex problems.
+### 📡 [CoinPulse](https://coinpulse.vercel.app) — real-time crypto dashboard
+Live price streaming via WebSockets, sub-second updates across dozens of pairs.
+`WebSockets · Redis · Next.js` — built for latency, not polling.
 
----
-
-## 🎯 Core Competencies
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: NestJS, Express, FastAPI, Django, Spring
-- **Mobile**: React Native, Flutter, Swift, Kotlin
-- **Real-time**: WebSockets, GraphQL, tRPC
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI/ML & GenAI
-- **Frameworks**: PyTorch, TensorFlow, scikit-learn
-- **LLM Stack**: LangChain, LlamaIndex, Autogen
-- **MLOps**: MLflow, DVC, Weights & Biases
-- **Platforms**: Vertex AI, SageMaker, HuggingFace
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & DevOps
-- **Cloud**: AWS, GCP, Azure
-- **Orchestration**: Kubernetes, Docker, Terraform
-- **CI/CD**: GitHub Actions, ArgoCD, Helm
-- **Monitoring**: Prometheus, Grafana, New Relic
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ Blockchain & Web3
-- **Smart Contracts**: Solidity, Hardhat, Foundry
-- **Libraries**: ethers.js, web3.js, viem
-- **Networks**: Ethereum, Polygon, NEAR
-- **Tools**: IPFS, Chainlink, OpenZeppelin
-
-</td>
-</tr>
-</table>
+**Also shipped:** [IMDA](https://huggingface.co/spaces/onirban/imdagent) (CV for manufacturing floors), [TempoFlow](https://tempoflow.vercel.app) (3D focus timer), [AlgoPrep](https://algo-prep.vercel.app), [OrbitX](https://orbitx.vercel.app) (Web3 onboarding), [KakshyaKul](https://kakshya-kul.vercel.app), [BeatNest](https://beatnest.vercel.app), [LinkRoom](https://linkroom.vercel.app), [Calibrate-O1](https://github.com/kekubhai/calibrate-o1) — 12 shipped projects total, all in production or demo-ready.
 
 ---
 
-## 🛠️ Tech Stack
+## Stack, by what it's for
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-### Backend & APIs
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### AI/ML & LLMOps
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Blockchain & Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+- **Ship a product fast:** Next.js, TypeScript, Tailwind, Vercel
+- **Make it intelligent:** Python, LangChain, vector stores, OpenAI/HF APIs
+- **Make it real-time:** WebSockets, Redis, event-driven architecture
+- **Make it trustless:** Solidity, ethers.js, Hardhat, smart contract design
+- **Make it reliable:** PostgreSQL, Docker, CI/CD
 
 ---
 
-## 📊 GitHub Stats
+## Remote & async, by habit
 
-<div align="center">
-  
-![Anirban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kekubhai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+- Every project above shipped **fully remote**, coordinated async with distributed hackathon teammates and collaborators across time zones.
+- I write before I build: specs, READMEs, and PR descriptions are treated as the interface between me and everyone else on the team.
+- Comfortable owning a feature end-to-end with zero standups — daily async updates, loom/video walkthroughs when text isn't enough.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kekubhai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kekubhai&theme=tokyonight&hide_border=true)
-
-</div>
+**DevRel signals:** active open-source contributor ([github.com/kekubhai](https://github.com/kekubhai)), writing up build breakdowns for shipped projects, talked through architecture decisions at hackathon demo days.
 
 ---
 
-## 🏆 Highlights
+## What I'm looking for
 
-```typescript
-const anirban = {
-  expertise: ["Full-Stack", "AI/ML", "Blockchain", "Cloud Architecture"],
-  currentFocus: ["GenAI Applications", "LLMOps", "Web3 Development"],
-  architecture: ["Microservices", "Event-Driven", "Serverless", "DDD"],
-  communities: ["Open Source Contributor", "Tech Blogger", "Mentor"],
-  funFact: "I turn coffee into code and ideas into reality ☕→💻"
-};
-```
+Seed/Series A startups building **applied AI/ML products, forward-deployed engineering, or DevRel** roles — where shipping speed and user feedback loops matter more than process.
 
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on innovative projects, especially in:
-- 🤖 AI/ML and Generative AI applications
-- ⛓️ Blockchain and Web3 solutions  
-- ☁️ Scalable cloud-native architectures
-- 🚀 Open-source initiatives
-
-Feel free to reach out for collaboration, consulting, or just a tech chat!
-
-<div align="center">
-
-**"Building the future, one commit at a time"** 🚀
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=kekubhai&color=blueviolet&style=for-the-badge)
-
-</div>
+If you're building 0→1 and need someone who ships in days, not sprints — [let's talk](mailto:anirbanghosh060@gmail.com).
