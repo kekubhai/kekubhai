@@ -6,7 +6,10 @@
 <sub>Today's image: <a href="https://unsplash.com">Unsplash</a> · Updated daily</sub>
 <!-- HERO:END -->
 
-**1 year shipping 0→1 products · 6 hackathons · 1k+ users**
+<!-- GITHUB_STATS:START -->
+**1+ years shipping 0→1 products · 0 repos · 0 stars · 0 followers**
+*Primary: Multi-language* · Updated daily
+<!-- GITHUB_STATS:END -->
 
 Full-stack engineer who ships fast and remote. I build the thing, put it in front of users, and iterate — no permission needed.
 

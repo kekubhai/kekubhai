@@ -1,14 +1,16 @@
 import os
 import re
-import random
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 
 UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY")
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME", "kekubhai")
 README_PATH = "README.md"
 HISTORY_FILE = ".github/image_history.txt"
 QUERY = "technology landscape coding workspace"
+GITHUB_API = "https://api.github.com"
 
 
 def fetch_random_image():
@@ -50,6 +52,123 @@ def get_unique_image(history):
     return data  # fallback after 5 attempts
 
 
+def github_headers():
+    """Return headers for GitHub API requests."""
+    headers = {"Accept": "application/vnd.github+json"}
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"Bearer {GITHUB_TOKEN}"
+    return headers
+
+
+def fetch_github_stats():
+    """Fetch live stats from GitHub profile."""
+    stats = {
+        "repos": 0,
+        "stars": 0,
+        "followers": 0,
+        "total_commits": 0,
+        "active_days": 0,
+        "first_commit_year": None,
+        "languages": {},
+    }
+
+    # Fetch profile info
+    try:
+        resp = requests.get(f"{GITHUB_API}/users/{GITHUB_USERNAME}", headers=github_headers(), timeout=15)
+        resp.raise_for_status()
+        profile = resp.json()
+        stats["followers"] = profile.get("followers", 0)
+    except Exception as e:
+        print(f"Warning: Could not fetch profile: {e}")
+
+    # Fetch all repos (paginated)
+    repos = []
+    page = 1
+    while True:
+        try:
+            resp = requests.get(
+                f"{GITHUB_API}/users/{GITHUB_USERNAME}/repos",
+                headers=github_headers(),
+                params={"per_page": 100, "page": page, "sort": "updated"},
+                timeout=15,
+            )
+            resp.raise_for_status()
+            batch = resp.json()
+            if not batch:
+                break
+            repos.extend(batch)
+            page += 1
+        except Exception:
+            break
+
+    stats["repos"] = len(repos)
+    stats["stars"] = sum(r.get("stargazers_count", 0) for r in repos)
+
+    # Count languages
+    for repo in repos:
+        lang = repo.get("language")
+        if lang:
+            stats["languages"][lang] = stats["languages"].get(lang, 0) + 1
+
+    # Fetch recent commit activity across top repos
+    for repo in repos[:10]:
+        try:
+            resp = requests.get(
+                f"{GITHUB_API}/repos/{GITHUB_USERNAME}/{repo['name']}/commits",
+                headers=github_headers(),
+                params={"per_page": 1},
+                timeout=10,
+            )
+            if resp.status_code == 200:
+                commits = resp.json()
+                stats["total_commits"] += 1
+                if commits:
+                    date_str = commits[0]["commit"]["author"]["date"]
+                    commit_date = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+                    if stats["first_commit_year"] is None or commit_date.year < stats["first_commit_year"]:
+                        stats["first_commit_year"] = commit_date.year
+        except Exception:
+            continue
+
+    # Estimate active days from contribution-like data
+    try:
+        resp = requests.get(
+            f"{GITHUB_API}/users/{GITHUB_USERNAME}/events/public",
+            headers=github_headers(),
+            params={"per_page": 100},
+            timeout=15,
+        )
+        if resp.status_code == 200:
+            events = resp.json()
+            unique_days = set()
+            for event in events:
+                if event.get("type") in ("PushEvent", "CreateEvent", "IssuesEvent", "PullRequestEvent"):
+                    date_str = event.get("created_at", "")
+                    if date_str:
+                        day = date_str[:10]
+                        unique_days.add(day)
+            stats["active_days"] = len(unique_days)
+    except Exception:
+        pass
+
+    return stats
+
+
+def get_top_languages(languages, n=3):
+    """Return top N languages sorted by usage."""
+    sorted_langs = sorted(languages.items(), key=lambda x: x[1], reverse=True)
+    return [lang for lang, _ in sorted_langs[:n]]
+
+
+def calculate_years_active(first_year):
+    """Calculate years active since first commit."""
+    if first_year is None:
+        return None
+    current_year = datetime.now(timezone.utc).year
+    years = current_year - first_year
+    return max(years, 1)
+
+
 def get_tech_stats():
     """Gather dynamic stats from the repo to reflect code changes."""
     # Count total Python/JS/TS files as a proxy for code activity
@@ -63,8 +182,8 @@ def get_tech_stats():
     return file_counts
 
 
-def update_readme(image_data, file_counts):
-    """Replace image block and stats in README."""
+def update_readme(image_data, file_counts, github_stats):
+    """Replace image block, stats, and GitHub data in README."""
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -86,7 +205,6 @@ def update_readme(image_data, file_counts):
     if re.search(pattern, content, re.DOTALL):
         content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     else:
-        # Insert after the first heading if markers don't exist
         lines = content.split("\n")
         insert_idx = 0
         for i, line in enumerate(lines):
@@ -113,18 +231,47 @@ def update_readme(image_data, file_counts):
     if re.search(stats_pattern, content, re.DOTALL):
         content = re.sub(stats_pattern, stats_line, content, flags=re.DOTALL)
     else:
-        # Append at the end
         content = content.rstrip() + "\n\n" + stats_line + "\n"
+
+    # Update GitHub profile stats
+    top_langs = get_top_languages(github_stats["languages"])
+    years_active = calculate_years_active(github_stats["first_commit_year"])
+    years_str = f"{years_active}+" if years_active else "1+"
+    repos_str = str(github_stats["repos"])
+    stars_str = str(github_stats["stars"])
+    followers_str = str(github_stats["followers"])
+    lang_str = " · ".join(top_langs) if top_langs else "Multi-language"
+
+    gh_stats_line = (
+        f"<!-- GITHUB_STATS:START -->\n"
+        f"**{years_str} years shipping 0→1 products · {repos_str} repos · "
+        f"{stars_str} stars · {followers_str} followers**\n"
+        f"*Primary: {lang_str}* · Updated {today}\n"
+        f"<!-- GITHUB_STATS:END -->"
+    )
+
+    gh_pattern = r"<!-- GITHUB_STATS:START -->.*?<!-- GITHUB_STATS:END -->"
+    if re.search(gh_pattern, content, re.DOTALL):
+        content = re.sub(gh_pattern, gh_stats_line, content, flags=re.DOTALL)
+    else:
+        # Insert after the heading line
+        lines = content.split("\n")
+        for i, line in enumerate(lines):
+            if line.startswith("**") and "shipping" in line:
+                lines[i] = gh_stats_line
+                content = "\n".join(lines)
+                break
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(content)
 
 
 def main():
+    file_counts = get_tech_stats()
+    github_stats = fetch_github_stats()
+
     if not UNSPLASH_ACCESS_KEY:
         print("Warning: UNSPLASH_ACCESS_KEY not set, skipping image update")
-        # Still update stats
-        file_counts = get_tech_stats()
         with open(README_PATH, "r", encoding="utf-8") as f:
             content = f.read()
         stats_line = (
@@ -147,10 +294,10 @@ def main():
     image_data = get_unique_image(history)
     save_history(image_data["id"], history)
 
-    file_counts = get_tech_stats()
-    update_readme(image_data, file_counts)
+    update_readme(image_data, file_counts, github_stats)
 
     print(f"Updated README with image {image_data['id']} by {image_data['user']['name']}")
+    print(f"GitHub stats: {github_stats['repos']} repos, {github_stats['stars']} stars, {github_stats['followers']} followers")
 
 
 if __name__ == "__main__":
