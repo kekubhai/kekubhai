@@ -1,5 +1,11 @@
 # Anirban Ghosh
 
+<!-- HERO:START -->
+![Hero](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80)
+
+<sub>Today's image: <a href="https://unsplash.com">Unsplash</a> · Updated daily</sub>
+<!-- HERO:END -->
+
 **1 year shipping 0→1 products · 6 hackathons · 1k+ users**
 
 Full-stack engineer who ships fast and remote. I build the thing, put it in front of users, and iterate — no permission needed.
@@ -55,3 +61,6 @@ Live price streaming via WebSockets, sub-second updates across dozens of pairs.
 Seed/Series A startups building **applied AI/ML products, forward-deployed engineering, or DevRel** roles — where shipping speed and user feedback loops matter more than process.
 
 If you're building 0→1 and need someone who ships in days, not sprints — [let's talk](mailto:anirbanghosh060@gmail.com).
+
+<!-- CODE_STATS:START -->
+<!-- CODE_STATS:END -->
